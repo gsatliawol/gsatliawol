@@ -1,5 +1,7 @@
-# **Glenn Stone**
-30-year denizen of the greasy underbellly of the Internet; automation specialist since 2014.  I'm a plumber, not a rock star.  I'm not flashy or disruptive; I just make sure your pipes flow smoothly, and when they don't, I step in and clean up the mess.  
+# **Stone Bear**
+My _Surname_ is Stone and my _chosen-name_ is Bear and my pronouns are they and them, and there is a slight flaw in my character.  I am 30-year denizen of the greasy underbellly of the Internet; automation specialist since 2014.  I'm a plumber, not a rock star.  I'm not flashy or disruptive; I just make sure your pipes flow smoothly, and when they don't, I step in and clean up the mess.  
+
+Skillset: 
 - Linux, distro-agnostic (but don't make me recompile the world)
 - bash
 - python
